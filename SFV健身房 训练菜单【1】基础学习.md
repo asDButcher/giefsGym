@@ -27,5 +27,3 @@
 > 蹲下的普通技只要将摇杆往下拉再按下攻击键就行了，至于一些角色专属的特殊技都有各自的方向输入或按键输入要求。  
 
 > “基础学习”是由@SuperJoeMunday所撰写，由@asDButcher翻译，原文请点击 [这里](https://www.reddit.com/r/StreetFighter/comments/4461os/giefs_gym_a_workout_plan_and_training_program_for/) 。  
-
-#Gaming/SFV
