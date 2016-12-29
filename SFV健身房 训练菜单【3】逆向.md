@@ -53,5 +53,3 @@ Dummy会移动到你的身前并用两下蹲轻拳攻击，之后开始跳入逆
 有个例子是，你按下了LP+LK打算投对面时，却被对面跳逆了，在投技失败的硬直影响，各种对空攻击在有限的时间内根本赶不上，这种时候熟练的逆向防御能力就是能帮到你的东西了。还有个例子是你在被Crush Counter打倒后，对手跳逆向，没有EX资源的情况下你根本没办法来得及凹什么东西。
 
 > “防御”是由@SuperJoeMunday所撰写，并由@asDButcher翻译，原文请点击 [这里](https://www.reddit.com/r/StreetFighter/comments/4eqyp8/giefs_gym_cross_ups_a_practical_lesson_on/) 。  
-
-#gaming/sfv
