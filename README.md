@@ -1,19 +1,58 @@
 # 桑吉尔夫健身房 中文版
-此为 https://fullmeter.com/fatonline 上所记载的街霸5新手训练菜单，由@SuperJoeMunday撰写，基于此教程是英文本，为了让对格斗游戏（街霸5）感兴趣的新手们能够有练习的方向，我决定好好将整篇教程给翻译完。
+此为Reddit上所记载的街霸5新手训练菜单，由@SuperJoeMunday撰写，基于此教程是英文本，为了让对格斗游戏（街霸5）感兴趣的新手们能够有练习的方向，我决定好好将整篇教程给翻译完。
 文章里一些原文直接翻译也让人难以理解，我也会尽力稍作修饰，但我的英文并不好，再加上格斗游戏也玩的特别渣，只是纯粹喜欢玩，有可能有些地方翻译的不是很对，希望看了觉得有问题的人能够给我提出意见。
 
+先贴出原文链接：
+[Gief's Gym](https://www.reddit.com/r/StreetFighter/wiki/v/giefsgym)
+
 ## 目录
-### 基础
-* [基础训练【1】基础学习](basic/桑吉尔夫健身房 基础训练【1】基础学习.md)
-* [基础训练【2】防御](basic/桑吉尔夫健身房 基础训练【2】防御.md)
-* [基础训练【3】逆向](basic/桑吉尔夫健身房 基础训练【3】逆向.md)
-* [基础训练【4】波动拳搓法：摇杆236方向](basic/桑吉尔夫健身房 基础训练【4】波动拳搓法：摇杆236方向.md)
-* [基础训练【5】升龙拳](basic/桑吉尔夫健身房 基础训练【5】升龙拳.md)
-* [基础训练【6】蓄力](basic/桑吉尔夫健身房 基础训练【6】蓄力.md)
-* [基础训练【7】360](basic/桑吉尔夫健身房 基础训练【7】360.md)
-
-### 进阶
-* 进阶训练【1】对空（一）
-
-### 高级
-* 高级训练【1】择
+* [学习基本](docs/01.md)
+* 基本对空技巧
+* [防御](docs/03.md)
+* [逆向](docs/04.md)
+* 拆投
+* 延迟拆投
+* [波动拳（236）摇杆动作](docs/07.md)
+* [升龙拳（623）摇杆动作](docs/08.md)
+* [后前蓄力（46）摇杆动作](docs/09.md)
+* 下上蓄力（28）摇杆动作
+* [360摇杆动作](docs/11.md)
+* 取消必杀技
+* 确反
+* 确认
+* 差合
+* 单键取消必杀技
+* 择
+* 择（防御向）
+* 帧数陷阱确认
+* 前冲投
+* 压起身
+* Instant Overhead
+* The Tiger Knee (aka Instant Air Special)
+* Anti Air Cross Under
+* Fuzzy Jump OS
+* Canceling Specials into Critical Art
+* Safe Jumps
+* Blocking Common Setups
+* Auto Correct DP
+* Wake Up Recovery
+* Learning Combos
+* Corner Control
+* Projectile Management
+* Back Forward Charge Critical Art
+* Safe Spacing
+* The Shimmy
+* Forming a Neutral Game Plan
+* Physical Stretching
+* Double Tapping
+* Mental Strength Training
+* The V-Reversal
+* Determining Advantage on Block
+* Meter Management
+* Intentional Grind
+* Gaining Information
+* Conditioning
+* Match Review
+* Selecting a Main
+* Jumping
+* Researching Your Opponents
