@@ -1,0 +1,34 @@
+Cross Ups - Beginner
+The Workout – In training mode pick Ryu vs Ryu. Turn off stun and turn on Input Display so you can see exactly how your inputs are being read by the game. Walk toward the Dummy and position yourself at a range where you will jump over your opponent if you press up forward. If you need assistance with this spacing, hit the Dummy with a standing medium punch and a crouching medium punch. From this position jump forward and as you pass over your opponents head press medium kick and Ryu right behind his head:
+
+9 + MK
+
+If performed correctly the “Cross Up” prompt will appear on the Player 1 side of the screen letting you know for certain that your Cross Up was successful. Memorize the ranges which Ryu can jump forward from in order to perform a successful Cross Up. Attempt this Cross Up 10 times from each side. If you fail to perform a Cross Up, start back at zero Video Here
+The Purpose – Cross Ups are a basic offensive tool in the Street Fighter series. Crossing over your opponent in the air forces them to block in the opposite direction. In the workout, the Dummy will have to alter blocking by holding to the right 6 and switch to holding left 4 after you Cross them Up, hence the name. This can lead to hard to block situations if you plan out your jump trajectory to land over top of your opponents head. An ideal ambiguous Cross Up will land right above your opponents head, forcing them to guess as to which side they need to block. Additionally Cross Ups can cause some mashed out reversals to whiff, putting you in a prime situation for a big punish. There can also be instances where your jump in hits your opponent from the front but your jump arc carries you to the other side, forcing your opponent to block the jump in from the front and the follow up in the opposite direction. Although only Ryu’s Cross Up jumping mk is outlined in the workout, there are many other Cross Ups to explore:
+Rashid - j.mk
+R. Mika - j.lk 
+Chun-Li - j.mk, Headstomp , 2MK
+Ryu - j.lk, j.mk ,
+Ken - j.lk, j.mk ,
+Cammy - j.lk
+Vega - j.lk
+Necalli - j.mk
+Laura - j.lk, j.mk ,
+Zangief - j.lk, Body Splash , +
+Karin - j.lk , j.mk
+Nash – j.mk
+Bison - j.mk
+Birdie - j.mp
+Dhalsim – j.lk
+F.A.N.G. - j.hk
+Alex - j.lk
+Guile - j.lk
+Ibuki - j.lk , j.mk
+Juri - j.lk , j.mk
+Urien - j.lk
+Akuma - j.lk , j.mk
+Variations Include:
+Blocking Cross Ups - In training mode pick Ryu vs Ryu. This variation requires a basic understanding of the record and playback functions in the training room. In the Dummy Settings, set the Dummy to “Playback Recording.” You will then record the following Cross Up in “Action Recording Settings” Slot 1 (walk forward > cr.lp > cr.lp > jump forward > Cross Up mk):
+Walk Forward Point Blank >+>+>> Cross Up
+When this action is recorded, select “Action Playback Settings” and activate Slot 1, then get ready to control Player 1. The Dummy should walk forward and space themselves properly with two crouching light punches, block these attacks. After this the Dummy will perform a Cross Up jumping medium kick. You must now block the Cross Up jumping medium kick in the opposite direction that you blocked the crouching light punches. Attempt to block this Cross Up 10 times. If you fail to block a Cross Up, start back at zero. Video Here
+The Purpose - There will be times where you will be forced to block a cross up. For example, you might throw a poke out at your opponent but as you press your button they jump forward. You might not have enough time to recover from your poke to anti air their Cross Up and therefore must block appropriately. Another example could be that your opponent lands a crush counter sweep and performs a Cross Up safe jump that you cannot beat with a wakeup reversal without meter. Knowing how and when to block Cross Ups is crucial in building a solid defense.
