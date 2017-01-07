@@ -59,3 +59,6 @@
 * Selecting a Main
 * Jumping
 * Researching Your Opponents
+
+## 翻译感谢名单
+1. @cog1 from Baidu Tieba
